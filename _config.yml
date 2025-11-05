@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "LiuYuqing-2025.github.io/images/Liu Yuqing.png"
+  avatar           : "../images/Liu Yuqing.png"
   name             : "Yuqing Liu（刘雨晴）"
   pronouns         : # example: "she/her"  
   bio              : "Peking University"
