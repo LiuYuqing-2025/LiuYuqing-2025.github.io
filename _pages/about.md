@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year graduate student in Nursing at the [National Institute of Health Data Science](https://www.nihds.pku.edu.cn/), [Peking University Health Science Center](https://yjsy.bjmu.edu.cn). I am fortunate to be advised by [Prof.Shi Yuexian]. My research interests include AI for ECG (AI-ECG), medical time-series data, and digital health tools.
+I am a first-year graduate student in Nursing at the [School of Nursing](https://nursing.bjmu.edu.cn), [Peking University Health Science Center](https://yjsy.bjmu.edu.cn). I am fortunate to be advised by [Prof.Shi Yuexian](https://nursing.bjmu.edu.cn/szdw/jsmd/f1e0d9248bf64412901747411c297fe5.htm). My research interests include Quality of Life in Organ Transplantation and elderly care.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:xxx@stu.pku.edu.cn) / [Github](https://github.com/xxx) / [Wechat](../images/wechat.jpg) 
+[Email](mailto:liuyuqing221@163.com) / [Github](https://github.com/xxx) / [Wechat](../images/wechat.jpg) 
 
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
