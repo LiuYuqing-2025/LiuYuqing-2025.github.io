@@ -64,7 +64,7 @@ More info about configuring Academic Pages can be found in [the guide](https://a
 
 Education
 ------
-- List item one
+ -  2020/09 - 2024/07, B.S., Nursing, West China Clinical Medical College of Sichuan University, Sichuan, China
   - List item one
     - List item one
       - List item two
