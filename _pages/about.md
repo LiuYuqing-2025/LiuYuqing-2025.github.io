@@ -11,7 +11,7 @@ I am a first-year graduate student in Nursing at the [School of Nursing](https:/
 
 You can find my CV here: [Liu Yuqing's Curriculum Vitae](../assets/CV.pdf).
 
-[Email](mailto:liuyuqing221@163.com) / [Wechat](LiuYuqing-2025.github.io/images/wechat.png) 
+[Email](mailto:liuyuqing221@163.com) / [Wechat](../images/wechat.png) 
 
 Education
 ------
