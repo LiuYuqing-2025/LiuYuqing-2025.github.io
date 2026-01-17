@@ -1,1 +1,18 @@
 This is a placeholder file
+---
+title: "数据集的数据分析与建模预测项目"
+collection: portfolio
+type: "Project"
+permalink: /portfolio/data-analysis-modeling
+date: 2026-01-16
+excerpt: "本项目对特定数据集进行深入分析，构建模型进行预测，为相关决策提供数据支持。"
+header:
+  teaser: /images/portfolio/data-analysis-modeling/feature_correlation_heatmap.png
+tags:
+  - 数据分析
+  - 机器学习
+  - 预测模型
+tech_stack:
+  - name: Python
+  - name: Scikit-learn
+---
